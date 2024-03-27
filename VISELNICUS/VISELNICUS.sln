@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VISELNICUS", "VISELNICUS\VISELNICUS.csproj", "{44E2F273-7208-40E2-95D4-7EEC977213DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VISULNICUS2", "VISULNICUS2\VISULNICUS2.csproj", "{92D397F5-A651-41A8-84EA-0AFAF2534FA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44E2F273-7208-40E2-95D4-7EEC977213DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44E2F273-7208-40E2-95D4-7EEC977213DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44E2F273-7208-40E2-95D4-7EEC977213DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44E2F273-7208-40E2-95D4-7EEC977213DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92D397F5-A651-41A8-84EA-0AFAF2534FA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92D397F5-A651-41A8-84EA-0AFAF2534FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92D397F5-A651-41A8-84EA-0AFAF2534FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92D397F5-A651-41A8-84EA-0AFAF2534FA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C99FC98F-9E9F-42EF-9987-F504CC9C907B}
+	EndGlobalSection
+EndGlobal

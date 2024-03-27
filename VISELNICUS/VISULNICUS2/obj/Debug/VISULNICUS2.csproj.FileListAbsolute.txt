@@ -1,0 +1,7 @@
+C:\Users\User\Documents\projects\VISELNICUS\VISULNICUS2\bin\Debug\VISULNICUS2.exe.config
+C:\Users\User\Documents\projects\VISELNICUS\VISULNICUS2\bin\Debug\VISULNICUS2.exe
+C:\Users\User\Documents\projects\VISELNICUS\VISULNICUS2\bin\Debug\VISULNICUS2.pdb
+C:\Users\User\Documents\projects\VISELNICUS\VISULNICUS2\obj\Debug\VISULNICUS2.csproj.AssemblyReference.cache
+C:\Users\User\Documents\projects\VISELNICUS\VISULNICUS2\obj\Debug\VISULNICUS2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\projects\VISELNICUS\VISULNICUS2\obj\Debug\VISULNICUS2.exe
+C:\Users\User\Documents\projects\VISELNICUS\VISULNICUS2\obj\Debug\VISULNICUS2.pdb
